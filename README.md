@@ -1,1 +1,0 @@
-# Autism-Behavior-Detection-YOLOv11
